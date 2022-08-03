@@ -1,3 +1,3 @@
 # RFIDBasedAutomatedPetrolPump
 
-<img src = "Images/Final.png" align = "center">
+<center> <img src = "Images/Final.png"> </center>
